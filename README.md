@@ -1,2 +1,2 @@
-# sql
-Class-12 MySQL Lessons
+# Chapter-12: Simple Queries in SQL
+[Solutions](ch-12/)
