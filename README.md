@@ -1,2 +1,2 @@
-# sql
-Class-12 MySQL Lessons
+# Class-12 MySQL Lessons
+[Solutions](ch-12/)
