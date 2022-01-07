@@ -1,3 +1,19 @@
 # Chapter-12: Simple Queries in SQL
-
+<script src="https://gist.github.com/djdays/604ff3713315370a2e5f7347baccb016.js"></script>
+<script src="https://gist.github.com/djdays/1807fe7efdc1221c774fcb910ffaef8f.js"></script>
+<script src="https://gist.github.com/djdays/212cd3bf8fdf83c92eb8fa4b8e4b5146.js"></script>
+<script src="https://gist.github.com/djdays/87bf14c42b0147d7596f87c535de44e1.js"></script>
+<script src="https://gist.github.com/djdays/bafc18ed87993c6799b98267ea407c83.js"></script>
+<script src="https://gist.github.com/djdays/2665a8c47ed7a8d1d421d9c6b0495298.js"></script>
+<script src="https://gist.github.com/djdays/b85c65ca9bbdf2b2ec3245c5be63bd9a.js"></script>
+<script src="https://gist.github.com/djdays/3019c1f4f5605330046ef2851acb3d24.js"></script>
 <script src="https://gist.github.com/djdays/b6054924d32e83506bdb85acf0f9f7eb.js"></script>
+<script src="https://gist.github.com/djdays/5012f030ba4bcb5916f701fa41437851.js"></script>
+<script src="https://gist.github.com/djdays/03c0ada75bb432176c3ce75b4799b5ee.js"></script>
+<script src="https://gist.github.com/djdays/6a3a5521395a809ea2e03999a901ea28.js"></script>
+<script src="https://gist.github.com/djdays/c160e2de356913a169035e8ccf44a4db.js"></script>
+<script src="https://gist.github.com/djdays/732a255c024cfce6b1e7ac5da10a3b2f.js"></script>
+<script src="https://gist.github.com/djdays/c94c73d6eb50e0f9b7398e8e7e865184.js"></script>
+<script src="https://gist.github.com/djdays/7c699502b4a6196ec14bb8c7cf4cf70f.js"></script>
+<script src="https://gist.github.com/djdays/df206d818e1c0e33db71b791c79e1957.js"></script>
+<script src="https://gist.github.com/djdays/08bda3017ae2fae9bb003ebe6cfab14f.js"></script>
